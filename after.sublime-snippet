@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+after${1:Each}((${2:done}) => {
+	${3:}
+})
+]]></content>
+	<tabTrigger>aft</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
